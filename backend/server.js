@@ -403,8 +403,7 @@ return res.json({ reply });
 
 
 // Server start
-
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
 
