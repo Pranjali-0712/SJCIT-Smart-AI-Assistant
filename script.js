@@ -163,7 +163,7 @@ async function getBotReply(message) {
     const language =
         document.getElementById("language").value;
 
-    const response = await fetch("http://localhost:3000/chat", {
+const response = await fetch("https://sjcit-smart-ai-assistant.onrender.com/chat",  {
 
         method: "POST",
 
