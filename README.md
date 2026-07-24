@@ -240,11 +240,23 @@ Add screenshots of:
 Example:
 
 ```
-screenshots/
-│
-├── homepage.png
-├── chatbot.png
-└── response.png
+# 📸 Screenshots
+
+## 🏠 Home Page
+
+<img src="image/homepage.png" width="800"/>
+
+## 🤖 Chatbot Interface
+
+<img src="image/chatbot.png" width="800"/>
+
+## 💬 AI Response
+
+<img src="image/response.png" width="800"/>
+
+##  Hostel Response
+
+<img src="image/Hostel response.png" width="800"/>
 ```
 
 ---
