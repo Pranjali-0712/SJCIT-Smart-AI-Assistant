@@ -159,25 +159,42 @@ The **SJCIT Smart AI Assistant** follows a client-server architecture where the 
 
 ## 🔄 System Workflow
 
+---
+
+
 User Input
+|
+↓
+Voice / Text Query
 |
 ↓
 React Frontend Interface
 |
 ↓
-Voice/Text Query Processing
+API Request Sent to Backend
 |
 ↓
-Node.js + Express Backend
+Node.js + Express Server
 |
 ↓
-AI Response Generation (Google Gemini API)
+Query Processing & Validation
 |
 ↓
-College Information Data (JSON)
+Google Gemini AI Processing
 |
 ↓
-Response Displayed to User
+College Information Retrieval (JSON Data)
+|
+↓
+AI Response Generation
+|
+↓
+Response Sent Back to Frontend
+|
+↓
+Answer Displayed to User
+
+
 ---
 
 ## 📝 Working Process
