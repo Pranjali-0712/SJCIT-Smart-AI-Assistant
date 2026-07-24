@@ -227,7 +227,6 @@ Live Demo:https://sjcit-smart-ai-assistant.vercel.app
 Add your Vercel URL here
 ```
 
-
 # 📸 Screenshots
 
 The following screenshots demonstrate the user interface and working of the **SJCIT Smart AI Assistant**.
@@ -266,7 +265,16 @@ The chatbot provides detailed hostel-related information.
 
 ---
 
+## 🏫 Campus View
+
+<img src="./image/campus.jpg" width="800"/>
+
 ---
+
+## 📚 Library Facility
+
+<img src="./image/library.jpg" width="800"/>
+
 
 ---
 
