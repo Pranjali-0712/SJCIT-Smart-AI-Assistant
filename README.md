@@ -261,22 +261,10 @@ The system generates intelligent responses based on user queries.
 
 The chatbot provides detailed hostel-related information.
 
-<img src="./image/hostel%20response.png" width="800"/>
+<img src="./image/hostel%20response.png" width="800">
 
 ---
 
-## 🏫 Campus View
-
-<img src="./image/campus.jpg" width="800"/>
-
----
-
-## 📚 Library Facility
-
-<img src="./image/library.jpg" width="800"/>
-
-
----
 
 # 🎯 Project Objectives
 
