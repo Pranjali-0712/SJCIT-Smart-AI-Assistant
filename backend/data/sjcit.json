@@ -1,0 +1,171 @@
+{
+  "college": {
+    "name": "SJC Institute of Technology",
+    "location": "B.B. Road, Chikkaballapur, Karnataka",
+    "website": "https://sjcit.ac.in"
+  },
+
+ "admission": {
+  "modes": [
+    "KCET",
+    "COMED-K",
+    "Management Quota"
+  ],
+  "codes": {
+    "KCET": "E-014",
+    "COMEDK": "E-108"
+  },
+  "contacts": [
+    "+91 9731292555",
+    "+91 9880143028"
+  ],
+  "documents": [
+    "KCET/COMED-K Rank Card",
+    "10th Marks Card",
+    "PUC/12th Marks Card",
+    "Transfer Certificate",
+    "Migration Certificate (if applicable)",
+    "Aadhaar Card Copy",
+    "Passport Size Photographs",
+    "Caste Certificate (if applicable)"
+  ]
+},
+
+  "departments": [
+    "Computer Science and Engineering",
+    "Artificial Intelligence and Machine Learning",
+    "Electronics and Communication Engineering",
+    "Electrical and Electronics Engineering",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "MBA"
+    
+  ],
+
+
+"library": {
+  "name": "Central Library",
+  "description": "The Central Library provides books, journals, digital resources and e-library facilities.",
+  "facilities": [
+    "Digital Library",
+    "Reference Books",
+    "National Journals",
+    "International Journals",
+    "E-Resources",
+    "Reading Hall",
+    "Internet Facility"
+  ]
+},
+
+  "placement": {
+  "highest_package": "28 LPA",
+  "median_package": "5.6 LPA",
+  "companies_visited": 63,
+  "job_offers": 744,
+
+  "companies": [
+    "TCS",
+    "Infosys",
+    "Wipro",
+    "Accenture",
+    "Capgemini",
+    "Cognizant"
+  ],
+
+  "training": [
+    "Aptitude Training",
+    "Coding Training",
+    "Soft Skills",
+    "Mock Interviews",
+    "Technical Guidance",
+    "Industry Internship Support"
+  ]
+},
+"transport": {
+  "details": "College buses operate from Bengaluru, Chikkaballapur and nearby towns.",
+  "features": [
+    "Daily Bus Service",
+    "Safe Transportation",
+    "Experienced Drivers",
+    "GPS Enabled Routes"
+  ]
+},
+
+
+ "contact": {
+  "phone": "+91 9731292555 or +91 9880143028",
+  "email": "principal@sjcit.ac.in",
+  "website": "https://sjcit.ac.in",
+  "address": "B.B. Road, Chikkaballapur, Karnataka"
+},
+"faq": {
+  "principal": {
+    "title": "Principal",
+    "answer": "The Principal of SJC Institute of Technology oversees the academic and administrative activities of the institution."
+  },
+
+  "wifi": {
+    "title": "Campus Wi-Fi",
+    "answer": "High-speed Wi-Fi is available across the SJCIT campus for students and staff."
+  },
+
+  "internship": {
+    "title": "Internships",
+    "answer": "Students receive internship opportunities through the Placement Cell and industry collaborations."
+  },
+
+  "scholarship": {
+    "title": "Scholarships",
+    "answer": "Scholarships are available according to Government regulations and institutional policies."
+  },
+
+  "timing": {
+    "title": "College Timings",
+    "answer": "The regular college working hours are from 9:00 AM to 4:30 PM."
+  },
+
+  "uniform": {
+    "title": "Dress Code",
+    "answer": "Students are expected to follow the college dress code and maintain proper discipline."
+  }
+},
+"statistics": {
+  "years_of_excellence": 40,
+  "students": 2900,
+  "faculty": 204,
+  "staff": 210,
+  "doctorates": 54,
+  "research_scholars": 96,
+  "alumni": 25000,
+  "funded_projects": 50
+},"highlights": [
+  "Autonomous Institution under VTU",
+  "NAAC A+ Accredited",
+  "NBA Accredited",
+  "QS I-Gauge Gold Rated",
+  "Ragging Free Campus",
+  "Wi-Fi Enabled Campus",
+  "Modern Laboratories",
+  "Digital Library",
+  "Separate Boys & Girls Hostels",
+  "Industry Collaborations",
+  "Internship Opportunities",
+  "Soft Skill Development",
+  "Entrepreneurship Development",
+  "Outcome Based Education"
+],"facilities": [
+  "Auditorium",
+  "Seminar Halls",
+  "Sports Complex",
+  "Gymnasium",
+  "Medical Centre",
+  "Cafeteria",
+  "Bank & ATM",
+  "Wi-Fi Campus",
+  "Parking",
+  "Research Laboratories"
+]
+
+
+
+}

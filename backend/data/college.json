@@ -1,0 +1,156 @@
+{
+  "college": {
+    "name": "SJC Institute of Technology",
+    "full_name": "Sri Jagadguru Chandrashekaranatha Swamiji Institute of Technology",
+    "short_name": "SJCIT",
+
+    "established": "1986",
+
+    "type": "Autonomous Institution under VTU (From 2024-25)",
+
+    "affiliated_to": "Visvesvaraya Technological University (VTU), Belagavi",
+
+    "approved_by": [
+      "All India Council for Technical Education (AICTE)"
+    ],
+
+    "accreditation": [
+      "NAAC A+ Grade",
+      "NBA Accredited (CSE, ISE, ECE, ME, CV)",
+      "ISO 9001:2015 Certified",
+      "QS I-GAUGE Gold Rated",
+      "IIC 4-Star Rated Institution"
+    ],
+
+    "managed_by": "Sri Adichunchanagiri Shikshana Trust (R.)",
+
+    "chairman": "Jagadguru Sri Sri Sri Dr. Nirmalanandanatha Mahaswamiji",
+
+    "principal": {
+      "name": "Dr. G. T. Raju",
+      "designation": "Principal",
+      "qualification": "B.E., M.Tech., Ph.D.",
+      "email": "principal@sjcit.ac.in",
+      "mobile": "+91 9731292555"
+    },
+
+    "location": {
+      "address": "P.B. No. 20, B.B. Road, Chickballapur - 562101, Karnataka",
+      "city": "Chickballapur",
+      "state": "Karnataka",
+      "country": "India"
+    },
+
+    "distance": {
+      "bangalore": "45 km",
+      "airport": "20 km from Kempegowda International Airport",
+      "nandi_hills": "15 km",
+      "muddenahalli": "5 km"
+    },
+
+    "website": "https://sjcit.ac.in",
+
+    "email": "principal@sjcit.ac.in",
+
+    "phone": "08156-200183",
+
+    "admission_contact": [
+      "+91 9731292555",
+      "+91 9880143028"
+    ],
+
+    "college_codes": {
+      "KCET": "E-014",
+      "COMEDK": "E-108",
+      "PGCET_MBA": "B265",
+      "PGCET_MTECH": "T865"
+    },
+
+    "about": "Sri Jagadguru Chandrashekaranatha Swamiji Institute of Technology (SJCIT) is a premier engineering institution established in 1986. The institute provides quality education, research, innovation, entrepreneurship, and industry-oriented learning in engineering and management disciplines.",
+
+    "vision": "Preparing Competent Engineering and Management Professionals to Serve the Society.",
+
+    "mission": [
+      "Providing students with sound knowledge in the fundamentals of their branch of study.",
+      "Promoting excellence in teaching, training, research and consultancy.",
+      "Exposing students to emerging frontiers in various domains enabling continuous learning.",
+      "Developing entrepreneurial acumen to venture into innovative areas.",
+      "Imparting value-based professional education with a sense of social responsibility."
+    ],
+
+    "core_values": [
+      "Spiritual",
+      "Judicious",
+      "Commitment",
+      "Integrity",
+      "Trustworthy"
+    ],
+
+    "statistics": {
+      "years_of_excellence": "40+",
+      "students": "2900+",
+      "faculty": "204+",
+      "staff": "210+",
+      "doctorates": "54+",
+      "research_scholars": "96+",
+      "funded_projects": "50+",
+      "alumni": "25000+"
+    },
+
+    "placements": {
+      "2022": {
+        "highest_package": "14 LPA",
+        "median_package": "5.4 LPA",
+        "companies_visited": "58",
+        "job_offers": "846"
+      },
+
+      "2023": {
+        "highest_package": "28 LPA",
+        "median_package": "5.6 LPA",
+        "companies_visited": "63",
+        "job_offers": "744"
+      },
+
+      "2024": {
+        "job_offers": "540"
+      }
+    },
+
+    "departments": [
+      "Computer Science and Engineering",
+      "Information Science and Engineering",
+      "Artificial Intelligence and Machine Learning",
+      "Electronics and Communication Engineering",
+      "Electrical and Electronics Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Aeronautical Engineering",
+      "Aerospace Engineering",
+      "MBA",
+      "MCA"
+    ],
+
+    "campus_facilities": [
+      "Central Library",
+      "Digital Library",
+      "Modern Laboratories",
+      "Smart Classrooms",
+      "Research Centres",
+      "Innovation & Incubation Centre",
+      "Separate Boys Hostel",
+      "Separate Girls Hostel",
+      "Sports Complex",
+      "Gymnasium",
+      "Cafeteria",
+      "Seminar Halls",
+      "Auditorium",
+      "Medical Facility",
+      "Transportation",
+      "Wi-Fi Enabled Campus",
+      "Bank & ATM"
+    ],
+
+    "image": "images/campus.jpg"
+  }
+}

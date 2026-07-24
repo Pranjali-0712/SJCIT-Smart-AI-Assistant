@@ -1,0 +1,71 @@
+{
+  "be": {
+    "title": "Bachelor of Engineering (B.E.)",
+    "routes": [
+      "KCET",
+      "COMEDK UGET",
+      "Management Quota"
+    ],
+    "eligibility": [
+      "Pass in 10+2 / PUC",
+      "Physics and Mathematics are compulsory",
+      "One of Chemistry, Biology, Biotechnology, Computer Science or Electronics",
+      "Minimum 45% aggregate",
+      "40% for Karnataka SC/ST/OBC candidates"
+    ],
+    "college_codes": {
+      "KCET": "E-014",
+      "COMEDK": "E-108"
+    }
+  },
+
+  "mtech": {
+    "title": "Master of Technology (M.Tech.)",
+    "routes": [
+      "PGCET",
+      "GATE",
+      "Management Quota"
+    ],
+    "eligibility": [
+      "B.E./B.Tech in relevant branch",
+      "Minimum 50% aggregate"
+    ],
+    "college_code": "T865"
+  },
+
+  "mba": {
+    "title": "Master of Business Administration (MBA)",
+    "routes": [
+      "PGCET",
+      "KMAT",
+      "CMAT",
+      "Management Quota"
+    ],
+    "eligibility": [
+      "Bachelor's Degree",
+      "Minimum 50% aggregate",
+      "45% for Karnataka SC/ST/Category-I"
+    ],
+    "college_code": "B265"
+  },
+
+  "documents": [
+    "KCET/COMEDK Rank Card",
+    "10th Marks Card",
+    "12th/PUC Marks Card",
+    "Transfer Certificate",
+    "Migration Certificate (if applicable)",
+    "Study Certificate",
+    "Aadhaar Card",
+    "Passport Size Photographs",
+    "Caste Certificate (if applicable)"
+  ],
+
+  "contact": {
+    "phone": [
+      "+91 9731292555",
+      "+91 9880143028"
+    ],
+    "website": "https://sjcit.ac.in/admissions/"
+  }
+}

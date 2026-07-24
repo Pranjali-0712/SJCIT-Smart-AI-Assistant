@@ -1,0 +1,370 @@
+{
+ "cse": {
+  "name": "Computer Science and Engineering",
+
+  "established": "1986",
+
+  "programs": [
+    "B.E. in Computer Science and Engineering",
+    "M.Tech. in Computer Science and Engineering",
+    "Ph.D. in Computer Science and Engineering"
+  ],
+
+  "hod": "Dr. Manjunatha Kumar B.H.",
+
+  "designation": "Associate Professor & Head of Department",
+
+  "about": "The Department of Computer Science and Engineering was established in 1986 with an initial intake of 60 students, later increased to 120 and currently 180. The department is affiliated with Visvesvaraya Technological University (VTU), approved by AICTE and is committed to providing quality education, research and innovation. It offers excellent computing facilities, experienced faculty and strong industry collaborations.",
+
+  "vision": "To build competent professionals embedded with human values to meet the challenges in the field of Computer Science and Engineering.",
+
+  "mission": [
+    "Empower graduates with strong fundamentals in design and implementation of computational systems through curriculum and research.",
+    "Provide state-of-the-art infrastructure and professionally committed faculty.",
+    "Develop ethical values, technical capabilities and leadership qualities."
+  ],
+  "facilities": [
+    "High-End Computing Laboratories",
+    "Research Laboratories",
+    "Center of Excellence in AI & ML",
+    "Smart Classrooms",
+    "Internet Facility",
+    "Project Laboratories"
+  ],
+
+  "career_opportunities": [
+    "Software Engineer",
+    "Full Stack Developer",
+    "Java Developer",
+    "Python Developer",
+    "AI Engineer",
+    "Machine Learning Engineer"
+
+  ]
+
+},
+"ise": {
+  "name": "Information Science and Engineering",
+
+  "established": "2000",
+
+  "programs": [
+    "B.E. in Information Science and Engineering"
+  ],
+
+  "hod": "Dr. Bhanumathi S.",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Information Science and Engineering focuses on software development, database systems, networking, cloud computing, cybersecurity and emerging technologies. The department prepares students with strong technical knowledge, practical skills and industry-oriented learning.",
+
+  "vision": "To produce competent Information Science professionals with ethical values and technical excellence.",
+
+  "mission": [
+    "Provide quality education in Information Science and Engineering.",
+    "Encourage innovation, research and lifelong learning.",
+    "Develop leadership, teamwork and professional ethics."
+  ],
+
+  "facilities": [
+    "Programming Laboratories",
+    "Database Laboratory",
+    "Networking Laboratory",
+    "Internet Facility",
+    "Smart Classrooms",
+    "Project Laboratory"
+  ],
+
+  "career_opportunities": [
+    "Software Engineer",
+    "Web Developer",
+    "Full Stack Developer",
+    "Cloud Engineer",
+    "Cyber Security Engineer",
+    "Data Analyst",
+    "Database Administrator",
+    "System Engineer"
+  ]
+},
+"aiml": {
+  "name": "Artificial Intelligence and Machine Learning",
+
+  "established": "2021",
+
+  "programs": [
+    "B.E. in Artificial Intelligence and Machine Learning"
+  ],
+
+  "hod": "Dr. Vikas Reddy S",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Artificial Intelligence and Machine Learning focuses on building intelligent systems using AI, Machine Learning, Deep Learning, Data Science, Computer Vision and Natural Language Processing. The department provides students with strong theoretical knowledge, practical skills and industry-oriented learning to solve real-world problems.",
+
+  "vision": "To develop competent Artificial Intelligence and Machine Learning professionals with technical excellence, innovation and ethical values.",
+
+  "mission": [
+    "Provide quality education in Artificial Intelligence and Machine Learning.",
+    "Promote research, innovation and interdisciplinary learning.",
+    "Develop industry-ready professionals with problem-solving and leadership skills."
+  ],
+
+  "facilities": [
+    "AI & Machine Learning Laboratory",
+    "Data Science Laboratory",
+    "High Performance Computing Facility",
+    "Smart Classrooms",
+    "Internet Facility",
+    "Project Laboratory"
+  ],
+
+  "career_opportunities": [
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Data Scientist",
+    "Deep Learning Engineer",
+    "Computer Vision Engineer",
+    "NLP Engineer",
+    "Python Developer",
+    "Software Engineer",
+    "Cloud AI Engineer",
+    "Research Engineer"
+  ]
+},
+"ece": {
+  "name": "Electronics and Communication Engineering",
+
+  "established": "1986",
+
+  "programs": [
+    "B.E. in Electronics and Communication Engineering",
+    "M.Tech. in VLSI Design and Embedded Systems",
+    "Ph.D. in Electronics and Communication Engineering"
+  ],
+
+  "hod": "Dr. C. Rangaswamy",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Electronics and Communication Engineering was established in 1986. The department provides quality education in electronics, communication systems, embedded systems, VLSI, IoT and signal processing through modern laboratories, experienced faculty and industry-oriented learning.",
+
+  "vision": "To produce competent Electronics and Communication Engineers with technical excellence, innovation and ethical values.",
+
+  "mission": [
+    "Provide quality education in Electronics and Communication Engineering.",
+    "Promote research, innovation and industry collaboration.",
+    "Develop professional ethics, leadership and lifelong learning skills."
+  ],
+
+  "facilities": [
+    "VLSI Laboratory",
+    "Embedded Systems Laboratory",
+    "Communication Laboratory",
+    "Digital Electronics Laboratory",
+    "Microprocessor Laboratory",
+    "Project Laboratory"
+  ],
+
+  "career_opportunities": [
+    "Electronics Engineer",
+    "Embedded Systems Engineer",
+    "VLSI Design Engineer",
+    "Communication Engineer",
+    "IoT Engineer",
+    "Network Engineer",
+    "Telecom Engineer",
+    "Hardware Engineer",
+    "Software Engineer",
+    "Research Engineer"
+  ]
+},"mechanical": {
+  "name": "Mechanical Engineering",
+
+  "established": "1986",
+
+  "programs": [
+    "B.E. in Mechanical Engineering",
+    "M.Tech. in Machine Design",
+    "Ph.D. in Mechanical Engineering"
+  ],
+
+  "hod": "Dr. Thyagaraj N. R.",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Mechanical Engineering was established in 1986. The department provides quality education in design, manufacturing, thermal engineering, automation, robotics and industrial engineering. It offers modern laboratories, experienced faculty and industry-oriented learning to prepare students for careers in core industries and advanced technologies.",
+
+  "vision": "To produce competent Mechanical Engineers with technical excellence, innovation, leadership and ethical values.",
+
+  "mission": [
+    "Provide quality education in Mechanical Engineering through effective teaching and practical learning.",
+    "Promote research, innovation and collaboration with industries.",
+    "Develop professional ethics, leadership qualities and lifelong learning among students."
+  ],
+
+  "facilities": [
+    "CAD/CAM Laboratory",
+    "CNC Machine Laboratory",
+    "Manufacturing Laboratory",
+    "Thermal Engineering Laboratory",
+    "Fluid Mechanics Laboratory",
+    "Material Testing Laboratory",
+    "Metrology Laboratory",
+    "Project Laboratory"
+  ],
+
+  "career_opportunities": [
+    "Mechanical Design Engineer",
+    "Production Engineer",
+    "Manufacturing Engineer",
+    "Automobile Engineer",
+    "Robotics Engineer",
+    "Quality Control Engineer",
+    "Maintenance Engineer",
+    "Industrial Engineer",
+    "CAD Engineer",
+    "Project Engineer",
+    "Research Engineer",
+    "Entrepreneur"
+  ]
+},"civil": {
+  "name": "Civil Engineering",
+
+  "established": "1986",
+
+  "programs": [
+    "B.E. in Civil Engineering",
+    "M.Tech. in Structural Engineering",
+    "Ph.D. in Civil Engineering"
+  ],
+
+  "hod": "Dr. Jamun Kumar",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Civil Engineering was established in 1986. The department provides quality education in structural engineering, geotechnical engineering, transportation engineering, environmental engineering and water resources. Students gain practical knowledge through well-equipped laboratories, field visits and industry-oriented projects.",
+
+  "vision": "To develop competent Civil Engineers with technical excellence, innovation, environmental awareness and professional ethics.",
+
+  "mission": [
+    "Provide quality education in Civil Engineering through effective teaching and practical learning.",
+    "Promote research, innovation and sustainable engineering practices.",
+    "Develop professional ethics, leadership qualities and lifelong learning among students."
+  ],
+
+  "facilities": [
+    "Structural Engineering Laboratory",
+    "Concrete Technology Laboratory",
+    "Geotechnical Engineering Laboratory",
+    "Surveying Laboratory",
+    "Environmental Engineering Laboratory",
+    "Transportation Engineering Laboratory",
+    "CAD Laboratory",
+    "Project Laboratory"
+  ],
+
+  "career_opportunities": [
+    "Structural Engineer",
+    "Site Engineer",
+    "Construction Engineer",
+    "Transportation Engineer",
+    "Environmental Engineer",
+    "Geotechnical Engineer",
+    "Water Resources Engineer",
+    "Quantity Surveyor",
+    "Project Engineer",
+    "Consulting Engineer",
+    "Government Engineer",
+    "Entrepreneur"
+  ]
+},"aeronautical": {
+  "name": "Aeronautical Engineering",
+
+  "established": "2004",
+
+  "programs": [
+    "B.E. in Aeronautical Engineering"
+  ],
+
+  "hod": "Dr. Deepa M. S.",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Aeronautical Engineering offers quality education in aircraft design, aerodynamics, propulsion systems, aircraft structures and maintenance. The department emphasizes practical learning through laboratories, projects and industry exposure.",
+
+  "vision": "To develop competent Aeronautical Engineers capable of contributing to the aviation and aerospace industries with innovation and ethical values.",
+
+  "mission": [
+    "Provide quality education in Aeronautical Engineering.",
+    "Promote research and innovation in aviation technologies.",
+    "Develop technically skilled professionals with leadership qualities."
+  ],
+
+  "facilities": [
+    "Aerodynamics Laboratory",
+    "Aircraft Structures Laboratory",
+    "Aircraft Propulsion Laboratory",
+    "Aircraft Systems Laboratory",
+    "CAD Laboratory",
+    "Project Laboratory"
+  ],
+
+  "career_opportunities": [
+    "Aircraft Design Engineer",
+    "Aircraft Maintenance Engineer",
+    "Flight Test Engineer",
+    "Aerodynamics Engineer",
+    "Propulsion Engineer",
+    "Aviation Safety Engineer",
+    "Defence Engineer",
+    "Research Engineer",
+    "CAD Engineer",
+    "Quality Engineer"
+  ]
+},"mba": {
+  "name": "Master of Business Administration",
+
+  "established": "2002",
+
+  "programs": [
+    "Master of Business Administration (MBA)"
+  ],
+
+  "hod": "Dr. I. G. Srikanth",
+
+  "designation": "Professor & Head of Department",
+
+  "about": "The Department of Management Studies provides quality education in business administration with specialization in Finance, Marketing, Human Resource Management and Business Analytics. The department prepares students for leadership roles through industry interaction and practical learning.",
+
+  "vision": "To develop competent management professionals with leadership, innovation and ethical values.",
+
+  "mission": [
+    "Provide quality management education.",
+    "Promote entrepreneurship and innovation.",
+    "Develop ethical leaders capable of solving business challenges."
+  ],
+
+  "facilities": [
+    "Smart Classrooms",
+    "Computer Laboratory",
+    "Seminar Hall",
+    "Digital Library",
+    "Business Simulation Laboratory",
+    "Project Guidance"
+  ],
+
+  "career_opportunities": [
+    "Business Analyst",
+    "Marketing Manager",
+    "HR Manager",
+    "Financial Analyst",
+    "Operations Manager",
+    "Project Manager",
+    "Entrepreneur",
+    "Consultant",
+    "Sales Manager",
+    "Business Development Executive"
+  ]
+}
+
+}

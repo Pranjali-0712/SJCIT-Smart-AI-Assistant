@@ -1,0 +1,89 @@
+
+  {
+"hostel":  {
+  "name": "SJCIT Hostel",
+
+  "description": "SJC Institute of Technology provides separate hostel facilities for boys and girls with a safe and comfortable environment for students.",
+  
+  "hostel_type": [
+  "Separate Boys Hostel",
+  "Separate Girls Hostel"
+],
+  "boys_hostel": {
+    "capacity": "Approximately 625 students",
+    "location": "Near the college main building",
+    "room_types": [
+
+      "3 Sharing",
+      "Twin Sharing (Attached Bathroom)"
+    ]
+  },
+
+  "girls_hostel": {
+    "capacity":"Approximately 500 students",
+    "location":"Near aeroblock in SJCIT college",
+    
+    "room_types": [
+      "96 Triple Occupancy Rooms",
+      "20 Single/Double Occupancy Rooms"
+    ]
+  },
+  
+  "facilities": [
+    "24 Hours Wi-Fi",
+    "Round-the-clock Security",
+    "Well Furnished Rooms",
+    "Study Hall",
+    
+    "Meditation Hall",
+    "Dining Hall",
+    
+    "Hot Water Facility",
+    "Gym",
+    "Internet Facility",
+    
+    "Newspapers",
+    "Indoor Games",
+    "Transport Facility",
+    "Medical Assistance"
+    
+  ],
+
+  "food": {
+  "mess": "Separate mess facility is available for hostel students.",
+  "type": "Healthy South Indian meals are served.",
+  "menu": [
+    "Breakfast",
+    "Lunch",
+    "Evening Snacks",
+    "Dinner"
+  ]
+},
+
+  "security": [
+  "24×7 Security",
+  "CCTV Surveillance",
+  "Biometric Entry (where applicable)",
+  "RO Drinking Water",
+  "Power Backup"
+],"study": [
+  "Quiet Study Hall",
+  "Reading Room",
+  "Internet Access"
+],"medical": [
+  "Medical Assistance",
+  "Emergency First Aid",
+  "Nearby Hospital Support"
+],"hostel_timings": {
+  "entry": "As per hostel regulations",
+  "visitors": "Only during permitted visiting hours"
+},
+  "rules": [
+    "Only SJCIT students are eligible for hostel accommodation.",
+    "Cooking inside rooms is prohibited.",
+    "Students must follow hostel timings.",
+    "Visitors are allowed only during permitted hours.",
+    "Maintain silence after study hours."
+  ]
+ }
+}

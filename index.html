@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SJCIT Smart AI Assistant</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+
+        <div class="logo">
+            <img src="images/logo.jpg" alt="SJCIT Logo">
+        </div>
+
+        <div class="header-text">
+            <h2>SJCIT Smart AI Assistant</h2>
+            <p>Your Virtual College Assistant</p>
+        </div>
+
+        <button id="themeBtn" onclick="toggleTheme()">🌙</button>
+
+    </div>
+
+    
+    <div id="chatbox">
+
+    <div class="bot welcome-card">
+
+        <h3>👋 Welcome to SJCIT Smart AI Assistant</h3>
+
+        <p>
+            Ask me anything about
+            Admissions, Departments,
+            Placements, Hostel,
+            Library, Transport,
+            Faculty, Contact and more.
+        </p>
+
+    </div>
+
+</div>
+<div class="quick-menu">
+
+    <div class="quick-header" onclick="toggleQuickMenu()">
+        <span>☰ Menu</span>
+        <i id="quickArrow" class="fa-solid fa-angle-down"></i>
+    </div>
+
+    <div id="quickButtons" class="quick-buttons">
+
+        <button onclick="quickAsk('Admission')">🎓 Admission</button>
+        <button onclick="quickAsk('Placement')">💼 Placement</button>
+        <button onclick="quickAsk('Library')">📚 Library</button>
+        <button onclick="quickAsk('Hostel')">🏠 Hostel</button>
+        <button onclick="quickAsk('Location')">📍 Location</button>
+        <button onclick="quickAsk('Departments')">🏫 Departments</button>
+        <button onclick="quickAsk('Transport')">🚌 Transport</button>
+        <button onclick="quickAsk('Contact')">☎ Contact</button>
+
+    </div>
+
+</div>
+
+    <div class="language-box">
+<label><i class="fa-solid fa-language"></i> Language</label>
+
+    <select id="language">
+
+        <option value="en">English</option>
+
+        <option value="hi">हिन्दी</option>
+
+        <option value="kn">ಕನ್ನಡ</option>
+
+    </select>
+
+</div>
+    <div class="input-area">
+
+        <input
+            type="text"
+            id="userInput"
+            placeholder="Ask me anything about SJCIT...">
+
+        <button onclick="startVoice()" class="mic-btn">
+            <i class="fa-solid fa-microphone"></i>
+        </button>
+
+        <button onclick="sendMessage()">
+            <i class="fa-solid fa-paper-plane"></i>
+        </button>
+   
+    </div>
+
+
+
+</div>
+<div id="imageModal" class="image-modal">
+    <span id="closeBtn">&times;</span>
+    <img id="fullImage" class="full-image">
+</div>
+
+
+<script src="script.js"></script>
+
+
+</body>
+</html>
