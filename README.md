@@ -242,22 +242,41 @@ Example:
 ```
 # 📸 Screenshots
 
+The following screenshots demonstrate the user interface and working of the **SJCIT Smart AI Assistant**.
+
+---
+
 ## 🏠 Home Page
 
-<img src="image/homepage.png" width="800"/>
+The landing page provides quick access to different college information categories.
+
+<img src="./image/homepage.png" width="800"/>
+
+---
 
 ## 🤖 Chatbot Interface
 
-<img src="image/chatbot.png" width="800"/>
+The chatbot allows users to ask questions and interact with the AI assistant.
+
+<img src="./image/chatbot.png" width="800"/>
+
+---
 
 ## 💬 AI Response
 
-<img src="image/response.png" width="800"/>
+The system generates intelligent responses based on user queries.
 
-##  Hostel Response
+<img src="./image/response.png" width="800"/>
 
-<img src="image/Hostel response.png" width="800"/>
-```
+---
+
+## 🏠 Hostel Information Response
+
+The chatbot provides detailed hostel-related information.
+
+<img src="./image/hostel%20response.png" width="800"/>
+
+---
 
 ---
 
