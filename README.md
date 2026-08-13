@@ -338,7 +338,7 @@ The following screenshots demonstrate the user interface and working of the **SJ
 
 The landing page provides quick access to different college information categories.
 
-<img src="./image/homepage.png" width="800"/>
+<img src="./images/homepage.png" width="800"/>
 
 ---
 
@@ -346,7 +346,7 @@ The landing page provides quick access to different college information categori
 
 The chatbot allows users to ask questions and interact with the AI assistant.
 
-<img src="./image/chatbot.png" width="800"/>
+<img src="./images/chatbot.png" width="800"/>
 
 ---
 
@@ -354,7 +354,7 @@ The chatbot allows users to ask questions and interact with the AI assistant.
 
 The system generates intelligent responses based on user queries.
 
-<img src="./image/response.png" width="800"/>
+<img src="./images/response.png" width="800"/>
 
 ---
 
@@ -362,7 +362,7 @@ The system generates intelligent responses based on user queries.
 
 The chatbot provides detailed hostel-related information.
 
-<img src="./image/hostel%20response.png" width="800">
+<img src="./images/hostel%20response.png" width="800">
 
 ---
 
